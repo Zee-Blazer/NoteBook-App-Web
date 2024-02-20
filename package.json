@@ -9,16 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@editorjs/checklist": "^1.6.0",
+    "@editorjs/code": "^2.9.0",
     "@editorjs/editorjs": "^2.29.0",
+    "@editorjs/embed": "^2.7.0",
+    "@editorjs/header": "^2.8.1",
+    "@editorjs/image": "^2.9.0",
+    "@editorjs/inline-code": "^1.5.0",
+    "@editorjs/list": "^1.9.0",
     "@editorjs/paragraph": "^2.11.3",
+    "@editorjs/raw": "^2.5.0",
+    "@editorjs/table": "^2.3.0",
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.15.10",
     "@mui/material": "^5.15.10",
+    "editorjs-react-renderer": "^3.5.1",
+    "froala-editor": "^4.1.4",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-editor-js": "^2.1.0"
+    "react-editor-js": "^2.1.0",
+    "react-froala-wysiwyg": "^4.1.4"
   },
   "devDependencies": {
     "@types/node": "^20",
